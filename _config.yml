@@ -91,4 +91,4 @@ category_page: '/categories/'
 
 paginate: 5
 paginate_path: "/page:num/"
-theme: jekyll-theme-midnight
+theme: jekyll-theme-tactile
